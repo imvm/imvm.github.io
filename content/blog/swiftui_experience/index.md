@@ -1,7 +1,10 @@
 ---
 title: My experience with SwiftUI
 date: "2019-08-26"
-description: Great new stuff in iOS 13.
+description: The new way to build iOS interfaces.
 ---
 
-WIP, Sorry!
+Don't forget to checkout some of these cool SwiftUI Resources I found:
+- Apple's Documentation
+- Big Mountain Studios
+- SwiftUI Lab

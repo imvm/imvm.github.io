@@ -1,7 +1,7 @@
 ---
-title: Call recording and routing with Twilio
+title: Call recording and routing on iOS with Twilio
 date: "2019-08-28"
-description: How to setup and use this framework.
+description: A simple proof-of-concept.
 ---
 
-WIP, Sorry!
+Twilio provides several APIs related to telephony. In this post we'll go through call recording and routing on iOS.

@@ -1,7 +1,7 @@
 ---
 title: Swift 4 Tensorflow basics
 date: "2019-08-26"
-description: How to setup and use this new framework.
+description: Tensorflow, but better!
 ---
 
-WIP, Sorry!
+Swift 4 Tensorflow allows you to build powerful Neural Networks with the help of Swift's excellent type system.
