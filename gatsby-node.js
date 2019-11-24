@@ -48,6 +48,23 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
   })
+
+  // Create blog archive pages
+  const postsPerPage = 5;
+  const numPages = Math.ceil(posts.length / postsPerPage);
+
+  Array.from({ length: numPages }).forEach((_, i) => {
+    createPage({
+      path: i === 0 ? `/archive` : `/archive${i + 1}`,
+      component: path.resolve('./src/templates/archive-list.js'),
+      context: {
+        limit: postsPerPage,
+        skip: i * postsPerPage,
+        numPages,
+        currentPage: i + 1
+      },
+    });
+  });
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

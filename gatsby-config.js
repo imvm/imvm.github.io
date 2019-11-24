@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ian Manor's Blog`,
+    title: `Ian Manor`,
     author: `Ian Manor`,
     description: `My blog about software engineering and app development.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile-pic.jpg`,
       },
     },
     `gatsby-plugin-offline`,

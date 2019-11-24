@@ -14,8 +14,11 @@ class Layout extends React.Component {
         <h1
           style={{
             ...scale(1.5),
-            marginBottom: rhythm(1.5),
+            marginBottom: rhythm(0.5),
             marginTop: 0,
+            justifyContent: `center`,
+            alignItems: `center`,
+            textAlign: `center`,
           }}
         >
           <Link
@@ -23,8 +26,6 @@ class Layout extends React.Component {
               boxShadow: `none`,
               textDecoration: `none`,
               color: `inherit`,
-              justifyContent: `center`,
-              alignItems: `center`,
             }}
             to={`/`}
           >
@@ -36,8 +37,13 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
+            ...scale(1.5),
             fontFamily: `Montserrat, sans-serif`,
+            marginBottom: rhythm(0.5),
             marginTop: 0,
+            justifyContent: `center`,
+            alignItems: `center`,
+            textAlign: `center`,
           }}
         >
           <Link
