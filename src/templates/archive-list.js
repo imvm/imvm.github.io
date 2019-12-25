@@ -91,7 +91,6 @@ class ArchiveIndex extends React.Component {
             </Link>
           )}
         </ul>
-        <Bio />
       </Layout>
     )
   }
