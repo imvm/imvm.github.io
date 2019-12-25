@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Johnny Got His Gun",
+        "authors": ["Dalton Trumbo"],
+        "reading_status": "finished",
+        "score": 1,
+        "recently_read": false
+    },
+    {
+        "title": "Sirens of Titan",
+        "authors": ["Kurt Vonnegut"],
+        "reading_status": "finished",
+        "score": 1
+    },
+    {
+        "title": "The Silmarillion",
+        "authors": ["J.R.R Tolkien"],
+        "reading_status": "finished",
+        "score": 1
+    },
+    {
+        "title": "A carta: Para entender a constituição brasileira",
+        "authors": ["Naercio Menezes Filho", "André Portela Souza"],
+        "reading_status": "reading",
+        "score": 0
+    },
+    {
+        "title": "The Rise and Fall of the Dinosaurs: A New History of a Lost World",
+        "authors": ["Steve Brussate"],
+        "reading_status": "reading",
+        "score": 0
+    },
+    {
+        "title": "Push Notifications by Tutorials",
+        "authors": ["Scott Grosch", "the raywenderlich Tutorial Team"],
+        "reading_status": "reading",
+        "score": 0
+    },
+    {
+        "title": "The Castle",
+        "authors": ["Franz Kafka"],
+        "reading_status": "unread",
+        "score": 0
+    },
+    {
+        "title": "Leonardo da Vincin",
+        "authors": ["Walter Isaacson"],
+        "reading_status": "unread",
+        "score": 0
+    },
+    {
+        "title": "Self Tracking",
+        "authors": ["Gina Neff", "Dawn Nafus"],
+        "reading_status": "unread",
+        "score": 0
+    },
+    {
+        "title": "The Haskell Road to Logic, Maths and Programming",
+        "authors": ["Kees Doets", "Jan van Eijck"],
+        "reading_status": "unread",
+        "score": 0
+    },
+    {
+        "title": "Bad Blood",
+        "authors": ["John Carreyou"],
+        "reading_status": "finished",
+        "score": 0,
+        "recently_read": true
+    },
+    {
+        "title": "Catch and Kill",
+        "authors": ["Ronan Farrow"],
+        "reading_status": "finished",
+        "score": 0,
+        "recently_read": true
+    },
+    {
+        "title": "Weapons of Math Destruction",
+        "authors": ["Cathy O'Neil"],
+        "reading_status": "finished",
+        "score": 0,
+        "recently_read": true
+    },
+    {
+        "title": "Microcopy: The Complete Guide",
+        "authors": ["Kinneret Yifrah"],
+        "reading_status": "finished",
+        "score": 0,
+        "recently_read": true
+    }
+]
