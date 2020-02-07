@@ -26,7 +26,10 @@ class PortfolioPage extends React.Component {
         <h3>Preveasy</h3>
         <p>App made to help people have easier access to private retirement funds.</p>
         <p>GR1D Hackathon Recife 2019 group project with Victor, Guilherme, Camilla, and Terry.</p>
-        <p><b>Using</b>: Swift, Vapor.</p>
+        <h3>SwimCheck</h3>
+        <p>App made to help people check that the water they're going to swim in is actually safe.</p>
+        <p>Monitoring Coastal Areas with Mapathons and Hackathons project with Ailton and Breno.</p>
+        <p><b>Using</b>: Swift, Vapor, GeoJSON data + ARCGIS, Dark Sky Weather API.</p>
         <p>Hackathon group project with Isabel, Nathalia, Augusto and Mateus.</p>
         <h3>Pedalável iOS App</h3>
         <p>App made to help cyclists choose safer routes based on historical information about the city's streets.</p>
@@ -57,7 +60,7 @@ class PortfolioPage extends React.Component {
         <p>Apple Developer Academy - UFPE group project with Isabel, Julia, César and Mariama.</p>
         <h3>Budhi iOS/watchOS App</h3>
         <p>App made to help people break bad habits by getting out and doing stuff.</p>
-        <p><b>Using</b>: Swift, Google Location data, SpriteKit.</p>
+        <p><b>Using</b>: Objective-C, Google Location data, SpriteKit.</p>
         <p>Apple Developer Academy - UFPE group project with Fanny, Hilton, Aline and Beatriz.</p>
         <h3>Swift Atoms of Confusion Website</h3>
         <p>I am currently no longer participating in this project, but I prepared a <a href="https://swift-atoms-heroku.herokuapp.com/">website</a> for a study of Swift syntax and code understandability.</p>
